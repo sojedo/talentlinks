@@ -11,3 +11,18 @@ GeeksforGeeks — Programming Tutorial 	A free written introduction to programmi
 Free Materials
 Resource 	Description 	Link
 Automate the Boring Stuff with Python 	A free, full online book that teaches programming by automating practical, everyday tasks. 	https://automatetheboringstuff.com
+
+
+
+
+
+Video
+Resource 	Description 	Link
+Crash Course Computer Science #1 — Early Computing 	A short, animated introduction to what computing is and where computers came from. 	https://www.youtube.com/watch?v=O5nskjZ_GoI
+Crash Course Computer Science (full playlist) 	A free series covering hardware, software, memory, the CPU, and how computers execute instructions. 	https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
+Free Articles
+Resource 	Description 	Link
+GeeksforGeeks — Computer Fundamentals Tutorial 	A free written guide to computer hardware and software, including the CPU, memory, input, and output devices. 	https://www.geeksforgeeks.org/computer-fundamentals-tutorial/
+Free Materials
+Resource 	Description 	Link
+GCFGlobal — Computer Basics 	Free, beginner-friendly lessons and interactive material on computers, hardware, software, and how they work together. 	https://edu.gcfglobal.org/en/computerbasics/
