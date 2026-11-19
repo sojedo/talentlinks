@@ -26,3 +26,21 @@ GeeksforGeeks — Computer Fundamentals Tutorial 	A free written guide to comput
 Free Materials
 Resource 	Description 	Link
 GCFGlobal — Computer Basics 	Free, beginner-friendly lessons and interactive material on computers, hardware, software, and how they work together. 	https://edu.gcfglobal.org/en/computerbasics/
+
+
+
+
+Interactive & Visual Algorithmic Practice
+Resource 	Focus 	URL
+MIT Scratch 	Visual programming to practice Layer 2 (Algorithms) without syntax errors. 	https://scratch.mit.edu
+BBC Bitesize: Introduction to Computational Thinking 	Beginner guide to decomposition, abstraction, pattern recognition, and algorithms. 	https://www.bbc.co.uk/bitesize/guides/zp92xnb/revision/1
+
+Courses & Video Lectures
+Resource 	Focus 	URL
+Harvard CS50: Introduction to Computer Science (Lecture 0) 	Explains computational thinking and algorithmic problem-solving before diving into code. 	https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science
+Khan Academy: Intro to Algorithms 	Step-by-step visual lessons on how algorithms work. 	https://www.khanacademy.org/computing/computer-science/algorithms
+
+Free Online Textbooks
+Resource 	Focus 	URL
+Automate the Boring Stuff with Python (Chapter 0 & 1) 	Practical introduction to the programmer mindset and writing your first execution steps. 	https://automatetheboringstuff.com
+Python for Everybody (Chapter 1) 	Understanding how programs talk to computers and how to construct logic. 	https://www.py4e.com/html3/01-intro
