@@ -53,4 +53,10 @@ Resource 	Description 	URL
 "Why Programming Is Important" 	Practical article explaining the value of programming skills. 	https://potomac.edu/benefits-of-coding/
 "How do Computers Understand Us" 	Accessible explanation of the communication gap between humans and computers. 	https://medium.com/swlh/how-do-computers-understand-us-a-high-level-overview-of-programming-languages-and-how-they-work-8ea32296cfa2
 
- 
+
+
+ Resource 	URL
+Khan Academy and Code.org — Binary & Data (YouTube) 	youtube.com/watch?v=ewokFOSxabs
+Representing Numbers and Letters with Binary (Crash Course Computer Science #4, YouTube) 	youtube.com/watch?v=1GSjbWt0c9M
+What is UTF-8 Character Encoding? (freeCodeCamp) 	freecodecamp.org
+
