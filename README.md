@@ -44,3 +44,13 @@ Free Online Textbooks
 Resource 	Focus 	URL
 Automate the Boring Stuff with Python (Chapter 0 & 1) 	Practical introduction to the programmer mindset and writing your first execution steps. 	https://automatetheboringstuff.com
 Python for Everybody (Chapter 1) 	Understanding how programs talk to computers and how to construct logic. 	https://www.py4e.com/html3/01-intro
+
+
+
+
+Additional Resources
+Resource 	Description 	URL
+"Why Programming Is Important" 	Practical article explaining the value of programming skills. 	https://potomac.edu/benefits-of-coding/
+"How do Computers Understand Us" 	Accessible explanation of the communication gap between humans and computers. 	https://medium.com/swlh/how-do-computers-understand-us-a-high-level-overview-of-programming-languages-and-how-they-work-8ea32296cfa2
+
+ 
